@@ -90,5 +90,10 @@
 ### Por ultimo nuestras paginas de Enrutamiento llamadas Rutas aqui lo que haremos es conectar las unas con las otras para que podamos acceder por ejemplo aditar con incio o con la barra de busqueda.
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/b9388d66-c957-4277-bb41-fe2415c39d95)
 
-
+## Todo
+### Mejorar el diseño de detalles
+### Crear una seccion de blog
+### mejorar la seccion de buscador
+### mejorar el diseño de la seccion de editar
+### crear interfaz de usuario y admin
 

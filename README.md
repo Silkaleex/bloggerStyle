@@ -49,8 +49,8 @@
 ### Pages
 
 ### Inicio, la pagina principal donde podemos ver las secciones de crear articulos iniciar y la barra de busqueda si queremos buscar algun articulo en concreto
-### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/a7855bd8-088a-4fb2-9075-8c6836a43c42)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/a23892a4-a453-4cdf-8209-c9d971b86bfb)
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/a7855bd8-088a-4fb2-9075-8c6836a43c42)
 
 ### Editar, en esta seccion podemos editar el articulo o blog
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/93c0a177-a685-4288-85ba-132e89738163)
@@ -87,7 +87,7 @@
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/fab7dddc-6d43-4c50-a3c3-fe208c6372f7)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/709314af-4937-4958-ba7b-2b980a57cf42)
 
-### Por ultimo nuestras paginas de enrutamiento aqui lo que haremos es conectar las unas con las otras para que podamos acceder por ejemplo aditar con incio o con la barra de busqueda.
+### Por ultimo nuestras paginas de Enrutamiento llamadas Rutas aqui lo que haremos es conectar las unas con las otras para que podamos acceder por ejemplo aditar con incio o con la barra de busqueda.
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/b9388d66-c957-4277-bb41-fe2415c39d95)
 
 

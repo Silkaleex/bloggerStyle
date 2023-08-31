@@ -15,14 +15,16 @@
 ### - npm install dotenv para encriptar las contraseñas de conexion entre nuestro mongoDb y nuestro express
 
 ## Una vez hecho esto lo que hice fue ir creando modelos y rutas
-### Este es el modelo de rutas donde creamos verificamos todas las artculos, buscamos un articulo, eliminamos y editamos.(Post, Get, Delete, Put)
+
 ### Este es el modelo de articulos
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/2887867a-27e7-400d-be26-3e247317b5c5)
 
 ### Esto es server.js es la raiz principal de mi backend conectado con mongoDb
+### Con esto ya pueo verificar si funciona mi base de datos con mi backend
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/25117cc9-fb7a-4257-98c4-35687abf8755)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/787d4a9e-2cf3-44f3-b387-2877e2fd7574)
-### Con esto ya pueo verificar si funciona mi base de datos con mi backend
+
+### Este es el modelo de rutas donde creamos verificamos todas las artculos, buscamos un articulo, eliminamos y editamos.(Post, Get, Delete, Put)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/dd06dfc3-4866-4d64-821a-a2a21cc5d2b7)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/6877aea6-5fd0-4e6e-80c5-8e12c71d3833)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/a8f61a6f-054d-4750-a148-d783e5fa25ab)

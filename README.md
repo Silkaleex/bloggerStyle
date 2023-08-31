@@ -30,10 +30,13 @@
 
 # Frontend
 ## Para empezar use el comando npx create-react-app client donde se crean todos los archivos necesarios para usar react
+### Luego instalé mas dependencias como npm react-router-dom, npm install react-toastify, pero las mas importante es npm install axios que lo que hace es unir nuestro backend con nuestro front-end cogiendo sus rutas interactuando con ellas a través del Front.
+
 ### para empezar cree una carpeta de components en esta entraran layouts, entraria el footer el sidebar,
 ### navbar, header, es una estructura que le daran a todas los componentes de pages en el que entraran cada sección de articulo,
-### inicio del articulo, creando articulo, los detalles de todo el articulo y la lista de todos los articulos creados, Ademas tambien cree otra carpeta de y las rutas donde se redirigiran cada componente, por ejemplo si quiero redirigirme al componente de crear, me llevara a esa pagina a crear un articulo.
-### Aqui muestro todos los componentes del front, empecemos por la carpeta de componentes en la carpeta de layouts
+### inicio del articulo, creando articulo, los detalles de todo el articulo y la lista de todos los articulos creados, Ademas tambien cree otra carpeta de y las rutas donde se redirigiran cada componente, por ejemplo si quiero redirigirme al componente de crear, me llevará a esa pagina a crear un articulo.
+
+### Aqui muestro todos los componentes del Front, empecemos por la carpeta de componentes en la carpeta de layouts.
 ### Header
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/0cbfcf29-07bc-4414-a349-834f6223d1ab)
 ### Nav
@@ -44,31 +47,48 @@
 ### Footer
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/fcf350ca-0d7a-4e0a-b59d-de4c676188e8)
 ### Pages
-### Inicio
+
+### Inicio, la pagina principal donde podemos ver las secciones de crear articulos iniciar y la barra de busqueda si queremos buscar algun articulo en concreto
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/a7855bd8-088a-4fb2-9075-8c6836a43c42)
-### Editar
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/a23892a4-a453-4cdf-8209-c9d971b86bfb)
+
+### Editar, en esta seccion podemos editar el articulo o blog
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/93c0a177-a685-4288-85ba-132e89738163)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/d4fdea92-ef02-4997-a086-dbdca6f8eb6a)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/772860b0-d76b-4230-9b11-43ba4ee1bb3c)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/4a4e501e-0dce-4a18-87fa-711d4dc79fa0)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/bf457e0a-6872-4b7e-89c6-3f8759a9a823)
-### Crear
+
+### Crear, aqui podemos crear el titulo contenido y fecha con un calendario personalizado de nuestro articulo, cuando hagamos el formulario se nos abrira una venta de si se nos creo o no el articulo o blog
+
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/7fdee8bb-29c0-446a-b5d5-6f7e0020af5a)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/7801d722-f53f-4edc-8e1d-2be87c9cbf67)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/4d26b808-6e80-4e73-b106-37d2326181d8)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/19920ca7-b3a0-4c1e-b605-7c538250a2cd)
-### Busqueda
+
+### Busqueda, en este componente nos buscara el articulo deseado, esta en todos los componentes
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/abe2b70e-767f-435d-b459-c80e4c314704)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/62953413-31c9-48b1-94ca-42b9331b81e4)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/fd4ba592-c854-49b8-9535-57fd2b74b7d8)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/99995fff-39e0-4b54-abba-56d807fb0fb9)
-### Articulos
+
+### Articulos, aqui se mostrarán todos los articulos creados aqui cree el componente de cargando
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/6fbd77f1-4609-4947-87cc-92b6000c9189)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/eb2348de-81b1-422b-ab5d-95391343456f)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/0298d216-bef3-4e1d-b571-92c2b7984730)
-### Listado
+
+### Listado, aqui se mostrarán todos los articulos creados, aqui añadi el boton de editar eliminar articulo y saber mas para acceder a detalles
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/21da1163-b403-47d2-9834-52552fe2a76f)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/9c38720d-b201-46c0-ace0-0eea712cc9cc)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/dace619b-9413-436c-96f8-d0f2e3e60dec)
-### Detalles
+
+### Detalles, cuando nuestro contenido es muy largo nos saldra un texto que pondra saber mas le pulsamos y nos dara mas detalles sobre ese articulo
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/cd6c3473-77e0-41e3-9742-33f6d9c3f81b)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/fab7dddc-6d43-4c50-a3c3-fe208c6372f7)
 ### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/709314af-4937-4958-ba7b-2b980a57cf42)
+
+### Por ultimo nuestras paginas de enrutamiento aqui lo que haremos es conectar las unas con las otras para que podamos acceder por ejemplo aditar con incio o con la barra de busqueda.
+### ![image](https://github.com/Silkaleex/bloggerStyle/assets/82760991/b9388d66-c957-4277-bb41-fe2415c39d95)
 
 
 
